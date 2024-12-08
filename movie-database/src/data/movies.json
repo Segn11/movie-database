@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "poster": "https://via.placeholder.com/200x300",
+      "description": "Two imprisoned men bond over a number of years...",
+      "rating": 9.3
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "poster": "https://via.placeholder.com/200x300",
+      "description": "The aging patriarch of an organized crime dynasty...",
+      "rating": 9.2
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "poster": "https://via.placeholder.com/200x300",
+      "description": "When the menace known as the Joker wreaks havoc...",
+      "rating": 9.0
+    }
+    
+  ]
+  
